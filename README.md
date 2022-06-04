@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @veyselcanbingol
 - 👀 I’m interested in mobile programming
-- 🌱 I’m currently learning React Native and C.
+- 🌱 I’m currently learning Swift.
